@@ -12,7 +12,7 @@ I’m an experienced Frontend Developer.
 My tech stack includes ReactJS, NextJS, TypeScript, JavaScript, HTML, SCSS, CSS, and more.
 
 <details align="left">
-  <summary><h2><b>📚 My stack</b></h2></summary>
+  <summary><h2><b>🛠 My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,sass,less,pug,mongodb,postgres&perline=10" />
@@ -21,10 +21,10 @@ My tech stack includes ReactJS, NextJS, TypeScript, JavaScript, HTML, SCSS, CSS,
     <img src="https://skillicons.dev/icons?i=react,nextjs,redux,threejs,remix,solidjs,angular,vue,nestjs,express,electron,tailwind,materialui,styledcomponents,bootstrap&perline=10" />
     <br>
     <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=babel,githubactions,vite,webpack,gulp,prisma,docker,wordpress&perline=10" />
+    <img src="https://skillicons.dev/icons?i=vite,webpack,babel,githubactions,gulp,prisma,docker,wordpress&perline=10" />
     <br>
     <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=webstorm,vscode,windows,linux,apple,ubuntu,postman&perline=10" />
+    <img src="https://skillicons.dev/icons?i=webstorm,vscode,postman,windows,linux,apple,ubuntu&perline=10" />
     <br>
     <h3>Team working</h3>
     <img src="https://skillicons.dev/icons?i=git,github,gitlab&perline=10" />
