@@ -8,14 +8,13 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/coop_dev)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/)
 
-I’m an experienced Frontend Developer from Kazakhstan.  
-  
-Responsible, communicative, and committed to self-development.  
-I specialize in development using React.js, Next.js, JavaScript, and TypeScript.  
-I have solid skills in HTML and CSS layout using preprocessors like SCSS, SASS, LESS, and PUG.  
-I optimize images and device load for better interactivity and loading speed metrics.  
-I ensure cross-browser compatibility and responsiveness for all types of devices.  
-I also have some backend development experience with Node.js, Express, and NestJS, using TypeScript.  
+I am an experienced Frontend Developer based in Kazakhstan, known for being responsible, communicative, and deeply committed to self-development.
+
+My expertise lies in building high-performance web applications using React.js, Next.js, JavaScript, and TypeScript. I have strong skills in HTML and CSS, including proficiency with preprocessors such as SCSS, SASS, LESS, and PUG.
+
+I have extensive experience in optimizing images to improve interactivity and accelerate loading times. Additionally, I ensure cross-browser compatibility and responsive design for seamless experiences across all devices.
+
+Beyond frontend development, I have practical experience in backend technologies, including Node.js, Express, and NestJS, utilizing TypeScript to build efficient and scalable server-side applications.
   
 ✔️ Developing and maintaining user interfaces with React.js, Next.js, JavaScript, and TypeScript.  
 ✔️ Ensuring application security and scalability.  
